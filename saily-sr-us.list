@@ -1,0 +1,10 @@
+# Saily 相关分流规则 - Shadowrocket（策略：美国节点）
+# 来源：用户 2026-10-28 提供的 Shadowrocket 本地规则截图
+# 说明：截图中 appsflyersdk.com 出现两次，已去重，最终 5 条
+
+[Rule]
+DOMAIN-SUFFIX,sailysupport.zendesk.com,美国节点
+DOMAIN-SUFFIX,nordvpn.com,美国节点
+DOMAIN-SUFFIX,braze.com,美国节点
+DOMAIN-SUFFIX,appsflyersdk.com,美国节点
+DOMAIN-SUFFIX,saily.com,美国节点
